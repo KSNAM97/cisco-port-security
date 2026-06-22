@@ -1,7 +1,7 @@
 # 🔒 Cisco Switch Port-Security 실습 정리
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-005073?style=flat&logo=cisco&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-GNS3-2ECC71)
 ![Network Security](https://img.shields.io/badge/Network-Security-green?style=flat)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KSNAM97/cisco-port-security)
